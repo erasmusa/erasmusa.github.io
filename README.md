@@ -1,2 +1,1 @@
-# erasmusa.github.io
-Erasmus Software Engineering page
+# Erasmus Software Engineering
